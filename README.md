@@ -1,10 +1,9 @@
-## Hello! My name is Benjamin, aka Benjru 👋
+## Hello! My name is Benjru 👋
 
-- 📚 I'm a third year Computer Science Major at Mount Allison University 
-- 💻 I'm currently working on expanding my pre-made data structures repository
-- 🌱 In my spare time, I am learning C and C++
-- 👀 I'm interested in blockchain, NIX systems, and UX/UI design
-- 🤝 I'm interested in collaborating on any interesting projects
+- 📚 I'm a fourth year Computer Science Major at Mount Allison University 
+- 💻 I'm currently working on writing an XCB window manager
+- 👀 I'm interested in blockchain, operating systems, and UX/UI design
+- 🤝 I'm open to collaborating on any interesting projects
 - 📫 Feel free to contact me at ben.hallihan1@gmail.com
 <br>
 
@@ -13,13 +12,12 @@
 <br>
 
 ### Technical skills
-- Java → Strong background and proficiency
-- Python → Proficient
-- Firebase → Proficient
-- NodeJS / React Native → Moderately proficient
+- Java → Strong background
+- Python → Reasonably proficient
 - CSS → Moderately proficient
-- Git / Version control → Moderately proficient
 - C / C++ → Moderately proficient
+- React Native → Some experience
+
 
 <!---
 Benjru/Benjru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
