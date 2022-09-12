@@ -1,9 +1,8 @@
-## Hello! My name is Benjru 👋
+## Hello! My name is Benjamin 👋
 
 - 📚 I'm a fourth year Computer Science Major at Mount Allison University 
-- 💻 I'm currently working on writing an XCB window manager
-- 👀 I'm interested in blockchain, operating systems, and UX/UI design
-- 🤝 I'm open to collaborating on any interesting projects
+- 💻 I'm currently working on writing an X window manager in C using XCB
+- 👀 I'm interested in computer networks, algorithms, operating systems and UX/UI design
 - 📫 Feel free to contact me at ben.hallihan1@gmail.com
 <br>
 
@@ -11,12 +10,20 @@
 
 <br>
 
-### Technical skills
-- Java → Strong background
-- Python → Reasonably proficient
-- CSS → Moderately proficient
-- C / C++ → Moderately proficient
-- React Native → Some experience
+### Technical skills - Programming Languages
+- Java
+  * JavaFX
+  * O.O.P and Data Structures
+- Python
+  * pandas (experience in professional setting)
+- C
+  * XCB (Xorg)
+  * pthreads (interprocess communication)
+  * xkbcommon (system level keyboard state management)
+- BASH Scripts
+  * Basic understanding
+- CSS
+  * Basic understanding
 
 
 <!---
