@@ -1,5 +1,5 @@
 ## 👋 Hello, My name is Benjamin!
-* 📚 I'm a fourth year Computer Science Major at Mount Allison University
+* 📚 I'm a Computer Science graduate from Mount Allison University
 * 💻 I'm currently working on writing an X window manager in C
 * 📫 Feel free to contact me at ben.hallihan1@gmail.com
 
